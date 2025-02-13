@@ -1,11 +1,15 @@
 {
   "name": "apizor",
-  "version": "1.0.0",
- "main": "index.js",
-"type": "module",
-  "keywords": ["apizor","api data handler", "axios data handler"],
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "apizor",
+    "api data handler",
+    "axios data handler"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "axios": "^1.7.9"

@@ -1,0 +1,13 @@
+{
+  "name": "apizor",
+  "version": "1.0.0",
+ "main": "index.js",
+"type": "module",
+  "keywords": ["apizor","api data handler", "axios data handler"],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
